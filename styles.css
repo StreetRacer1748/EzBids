@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #121212;
+    color: white;
+    text-align: center;
+}
+
+.car {
+    background-color: #1E1E1E;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 5px;
+    display: inline-block;
+    width: 300px;
+}
+
+button {
+    background-color: #ff9900;
+    border: none;
+    padding: 10px;
+    cursor: pointer;
+}
